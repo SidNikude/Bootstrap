@@ -1,0 +1,9 @@
+Without responsive offset ----> In this you need to input number in between 1-12
+
+Offset - *
+
+Offset - 1
+Offset - 12
+
+The above offset works on every grid system i.e breakpoint.
+The above offset applies on all breakpoint i.e es, sm, md, lg, xl, xxl.

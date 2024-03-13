@@ -1,0 +1,8 @@
+.container {
+    border: 5px solid greenyellow;
+}
+
+.box-1 {
+    min-height: 250px;
+    background-color: yellow;
+}
